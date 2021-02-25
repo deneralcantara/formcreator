@@ -6,7 +6,7 @@ Ao rodar o comando COMPOSER INSTALL, copiar o arquivo .env.example e renomear pa
 
 Mudar as seguintes linhas
 
-## DB_DATABASE=formcreator -> NOME DA DATABASE
+## DB_DATABASE=formcreator -> NOME DO BANCO DE DADOS
 ## DB_USERNAME=root -> USUARIO DO BANCO DE DADOS
 ## DB_PASSWORD= -> SENHA DO BANCO DE DADOS
 
