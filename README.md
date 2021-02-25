@@ -10,8 +10,8 @@ Mudar as seguintes linhas
 ## DB_USERNAME=root -> USUARIO DO BANCO DE DADOS
 ## DB_PASSWORD= -> SENHA DO BANCO DE DADOS
 
-rodar o comando php artisan key:generate
-rodar o comando php artisan migrate (deverá ter um banco de dados com o nome informado no .env já criado, no caso formcreator)
+## rodar o comando php artisan key:generate
+## rodar o comando php artisan migrate (deverá ter um banco de dados com o nome informado no .env já criado, no caso formcreator)
 
 ## PARA DEIXAR O AMBIENTE BACKEND RODANDO ##
 Rodar o comando php artisan serve --host=0.0.0.0
